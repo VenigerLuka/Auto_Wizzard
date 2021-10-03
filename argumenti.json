@@ -1,0 +1,21 @@
+{
+  "vlc-3.0.16-win32.exe": "/L=1033 /S",
+  "TeamViewer_Setup_x64.exe": "/S /norestart",
+  "FirefoxSetup91.0.2.exe": "/S",
+  "GoogleChrome.exe": "/silent /install",
+  "Opera.exe": "/silent /allusers=1 /launchopera=0 /setdefaultbrowser=0",
+  "OperaGX.exe": "/silent /allusers=1 /launchopera=0 /setdefaultbrowser=0",
+  "Discord.exe": "-s",
+  "Zoom.msi": "MsiExec.exe /i ./ZoomInstallerFull.msi /quiet",
+  "Thunderbird.exe": "-ms",
+  "GOMPlayer.exe": "/S",
+  "winamp.exe": "/S",
+  "cdburnerxp.exe": "/VERYSILENT",
+  "TotalCommander.exe": "/AHMGDU",
+  "FileZilla.exe": "/S",
+  "Notepad++.exe": "/S",
+  "putty-64bit-0.76-installer.msi": "MsiExec.exe /i ./putty-64bit-0.76-installer.msi /quiet",
+  "7zip.exe": "/S",
+  "Everything.exe": "/S",
+  "qBitTorrent.exe": "/S"
+}

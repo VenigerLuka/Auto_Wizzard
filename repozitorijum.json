@@ -1,0 +1,21 @@
+{
+  "vlc-3.0.16-win32.exe": "https://mirror.szerverem.hu/videolan/vlc/3.0.16/win32/vlc-3.0.16-win32.exe",
+  "TeamViewer_Setup_x64.exe": "https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe",
+  "FirefoxSetup91.0.2.exe": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US",
+  "GoogleChrome.exe": "https://www.google.com/intl/en/chrome/thank-you.html?standalone=1&statcb=1&installdataindex=empty&defaultbrowser=0#",
+  "Opera.exe": "https://net.geo.opera.com/opera/stable/windows?utm_tryagain=yes&utm_source=google_via_opera_com&utm_medium=ose&utm_campaign=(none)_via_opera_com_https&http_referrer=https%3A%2F%2Fwww.google.com%2F&utm_site=opera_com&&utm_lastpage=opera.com/",
+  "OperaGX.exe": "https://net.geo.opera.com/opera_gx/stable/windows?utm_tryagain=yes&utm_source=google_via_opera_com&utm_medium=ose&utm_campaign=(none)_via_opera_com_https&http_referrer=https%3A%2F%2Fwww.google.com%2F&utm_site=opera_com&&utm_lastpage=opera.com/",
+  "Discord.exe": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86",
+  "Zoom.msi": "https://zoom.us/client/latest/ZoomInstaller.exe",
+  "Thunderbird.exe": "https://download.mozilla.org/?product=thunderbird-91.0.2-SSL&os=win64&lang=en-CA",
+  "GOMPlayer.exe": "https://cdn.gomlab.com/gretech/player/GOMPLAYERGLOBALSETUP_NEW.EXE",
+  "winamp.exe": "https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe",
+  "cdburnerxp.exe": "https://cdburnerxp.se/downloadsetup.exe",
+  "TotalCommander.exe": "https://totalcommander.ch/win/tcmd1000x32.exe",
+  "FileZilla.exe": "https://download.filezilla-project.org/client/FileZilla_3.55.1_win64_sponsored-setup.exe",
+  "Notepad++.exe": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.3/npp.8.1.3.Installer.exe",
+  "putty-64bit-0.76-installer.msi": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.76-installer.msi",
+  "7zip.exe": "https://www.7-zip.org/a/7z1900-x64.exe",
+  "Everything.exe": "https://www.voidtools.com/Everything-1.4.1.1009.x64-Setup.exe",
+  "qBitTorrent.exe": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-4.3.7/qbittorrent_4.3.7_x64_setup.exe/download"
+}
